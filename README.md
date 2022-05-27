@@ -2,7 +2,6 @@
 
 - 🔭 Eu sou analista de suporte, Mas eu quero ser desenvolvedor junior.
 - 🌱 Estudando: CSS
-- 📫 Contate-me no email: j.victorxavier@outlook.com
 
 <div>
 <a href="https://github.com/JoaoXavier1">
