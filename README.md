@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Joao Xavier 1
 
 - 🔭 Eu sou analista de suporte, Mas eu quero ser desenvolvedor junior.
-- 🌱 Estudando: CSS
+- 🌱 Estudando: Docker
 
 <div>
 <a href="https://github.com/JoaoXavier1">
